@@ -1,0 +1,17 @@
+#Main config file for BlockHunt v1.0
+
+#Do not change the version, plugin needs it
+version: 1
+
+#Here write your language:
+#English by kvetinac97 - eng
+#Czech by kvetinac97 - ces
+language: "eng"
+
+#MySQL Data (needed for the plugin)
+mysql:
+ host: "127.0.0.1"
+ user: "12345_mysqldb"
+ pass: "12345"
+ database: "15754_mysqldb"
+ port: "3306"

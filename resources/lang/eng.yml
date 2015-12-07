@@ -1,0 +1,5 @@
+#Language file for English
+lang: "eng"
+init: "&eLanguage selcted: &aENGLISH"
+listener: "&eEnabling BlockHunt listener..."
+listener_true: "&aBlockHunt listener ENABLED!"
